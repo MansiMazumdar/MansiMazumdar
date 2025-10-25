@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/a0/8d/97/a08d971b0f2f0599cfd5478947098846.jpg" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>, I'm Mansi Mazumdar</h1>
 
