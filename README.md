@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>, I'm Mansi Mazumdar</h1>
 
 <p align="center">
-  <b>Data Science & Mathematical Sciences Student</b><br>
+  <b>Data Science & Computer Science Student</b><br>
   <b> Software Developer | Data-savvy | Speculative | Bibliophile | Entrepreneurial  </b>
 </p>
 
