@@ -22,6 +22,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mansi-mazumdar-43a937279?trk=contact-info" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" /></a>
+  <a href="https://x.com/mansimazumdar24" target="_blank"><img src="https://i.pinimg.com/736x/ad/fa/ea/adfaea6dcc1b54dfd3461b1bd386671a.jpg" width="32px" /></a>
 </p>
 
 ---
@@ -42,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/>
   <img src="https://i.pinimg.com/736x/05/dd/31/05dd314a6610a6e99fadfbda3eb66361.jpg" width="40px"/>
   <img src="https://i.pinimg.com/736x/7a/f2/1e/7af21eaf89a449831a1e12d640b54fae.jpg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
 </p>
 
 ---
@@ -50,4 +50,4 @@
 > “Tech + Entrepreneurship = Infinite Possibilities”
 
 Thanks for visiting!  
-Let’s connect, collaborate, and create something amazing together! ✨
+Let’s connect, collaborate and create something amazing together! ✨
